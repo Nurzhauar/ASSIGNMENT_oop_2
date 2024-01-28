@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b942da-0320-4134-ab48-99ecd52da07e" name="Changes" comment="assignment_oop_2" />
+    <list default="true" id="85b942da-0320-4134-ab48-99ecd52da07e" name="Changes" comment="assignment_oop_2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrainAndCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrainAndCar.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/kuatn/IdeaProjects/OOP_2_ASSIGNMENT/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,13 +76,26 @@
       <workItem from="1706426438153" duration="1225000" />
       <workItem from="1706427940755" duration="1379000" />
       <workItem from="1706433843384" duration="121000" />
+      <workItem from="1706434075380" duration="5206000" />
     </task>
+    <task id="LOCAL-00001" summary="assignment_oop_2">
+      <option name="closed" value="true" />
+      <created>1706434236954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706434236956</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="assignment_oop_2" />
     <option name="LAST_COMMIT_MESSAGE" value="assignment_oop_2" />
   </component>
